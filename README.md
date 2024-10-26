@@ -14,6 +14,11 @@
 </p>
 
 
+
+</div> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghunath123reddy&show_icons=true&locale=en&layout=compact" alt="raghunath123reddy" />
-![Github Profile Views](https://komarev.com/ghpvc/?username=sriramsonaganti&label=PROFILE+VIEWS)
 </p>
+![Raghunath Reddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunath123reddy&layout=compact)
+

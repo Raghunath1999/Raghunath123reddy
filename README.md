@@ -12,7 +12,7 @@
 
 ![Raghunath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghunathreddy&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghunathreddy&layout=compact&theme=tokyonight)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghunath123reddy&show_icons=true&locale=en&layout=compact" alt="raghunath123reddy" /></p>
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=raghunathreddy&label=PROFILE+VIEWS)
 

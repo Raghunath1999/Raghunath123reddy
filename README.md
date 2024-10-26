@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghunath Reddy</h1>
 <h3 align="center">I am Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Spring boot , Angular, React , AWS**
+- 🌱 I’m currently learning **Spring boot , Angular, React ,Node.js, AWS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -14,4 +14,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghunath123reddy&show_icons=true&locale=en&layout=compact" alt="raghunath123reddy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghunath123reddy&show_icons=true&locale=en&layout=compact" alt="raghunath123reddy" />
+![Github Profile Views](https://komarev.com/ghpvc/?username=sriramsonaganti&label=PROFILE+VIEWS)
+</p>

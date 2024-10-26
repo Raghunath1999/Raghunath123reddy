@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋 I'm Raghunath Reddy
 
-<!--
-**Raghunath123reddy/Raghunath123reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Full Stack Developer**  
+- 🌱 **Currently Learning**: Spring Boot, Angular, Node.js, React , AWS 
+- 👯 **Looking to Collaborate On**: Open-source projects  
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/raghunathreddy/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghunathreddy&repo=github-readme-stats" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Raghunath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghunathreddy&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghunathreddy&layout=compact&theme=tokyonight)  
+![Profile Views](https://komarev.com/ghpvc/?username=raghunathreddy&label=PROFILE+VIEWS)

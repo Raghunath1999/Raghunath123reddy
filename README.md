@@ -1,26 +1,25 @@
-<h1 align="center">Hi 👋, I'm Raghunath Reddy</h1>
-<h3 align="center">I am Full Stack Developer</h3>
+### Hi there 👋 I'm Raghunath Reddy
 
-- 🌱 I’m currently learning **Spring boot , Angular, React ,Node.js, AWS**
+- 💻 I'm a Full Stack Developer
+- 🌱 I’m currently learning Spring Boot, React, Node.js, and Angular
+- 👯 I’m looking to collaborate on open-source projects
 
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 💬 Ask me about **web**
 <!-- <div align="center">
-<h3>Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raghunath12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghunath12/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Raghunathreddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/raghunathreddy/" height="30" width="40" /></a>
-</p>
-</div> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghunath123reddy&show_icons=true&locale=en&layout=compact" alt="raghunath123reddy" />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunath123reddy&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+  </div> -->
+
+![Raghunath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghunathreddy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghunathreddy&layout=compact&theme=tokyonight)
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=raghunathreddy&label=PROFILE+VIEWS)
+
 <!--
+**RaghunathReddy/RaghunathReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-
-
-</div> -->
-
-</p>
 
 
 

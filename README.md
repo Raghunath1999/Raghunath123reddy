@@ -2,7 +2,7 @@
 
 - 📫 I'm currently looking for Sotware Engineer, Full Stack Engineer and Backend Developer jobs.
 - 🌱 Previously worked as a Software Engineer II at Development Bank of Singapore. 
-- 👯 I’m looking to collaborate on Full Stack ,cloud and Distritbuted Systems Projects.
+- 👯 I’m looking to collaborate on Full Stack, Cloud and Distritbuted Systems Projects.
 - 💬 I have strong fundamentals in distributed systems and algorithms.
 - 😄 Pronouns: He/Him/His
 

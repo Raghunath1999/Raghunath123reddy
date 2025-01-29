@@ -8,14 +8,14 @@
 
 I am a Software Engineer passionate about exploring new technological domains and building scalable, impactful solutions. My current focus is on leveraging cloud computing, distributed systems, and machine learning to address real-world challenges. With a strong foundation in Java, Python, Spring Boot, Angular, and AWS, I specialize in delivering robust backend systems and efficient full-stack applications.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghunath1999&show_icons=true&locale=en&layout=compact" alt="Raghunath1999" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghunath1999&show_icons=true&locale=en&layout=compact" alt="Raghunath1999" />
+</p>
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Raghunath1999&label=PROFILE+VIEWS)
-https://komarev.com/ghpvc/?username=raghunathreddy&label=PROFILE+VIEWS)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Raghunath1999&label=PROFILE+VIEWS&style=flat" alt="Profile Views Count" />
+</p>
 
-<!--
-**RaghunathReddy/RaghunathReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 
 
